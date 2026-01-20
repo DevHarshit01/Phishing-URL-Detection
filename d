@@ -1,1 +1,0 @@
-& "C:\Users\harsh\miniconda3\envs\phish-py310\python.exe" app.py
